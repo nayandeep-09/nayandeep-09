@@ -1,4 +1,3 @@
-markdown
 <div align="center">
 
 # 👋 Hey, I'm Nayandeep Chouhan
@@ -47,7 +46,7 @@ markdown
 <img src="https://skillicons.dev/icons?i=c,python,java,javascript" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
@@ -73,7 +72,7 @@ markdown
 
 An AI-powered resume builder focused on creating modern and ATS-friendly resumes.
 
-**Features:**
+### ✨ Features
 
 - 📄 Resume creation
 - 🎨 Modern resume templates
@@ -104,21 +103,31 @@ An AI-powered resume builder focused on creating modern and ATS-friendly resumes
 
 ## 📈 My Developer Journey
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white">
-→
+
+↓
+
 <img src="https://img.shields.io/badge/DSA-Practice-FF6F00?style=for-the-badge">
-→
+
+↓
+
 <img src="https://img.shields.io/badge/HTML%20%2B%20CSS-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-→
+
+↓
+
 <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-→
+
+↓
+
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-→
+
+↓
+
 <img src="https://img.shields.io/badge/Node.js-Next-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
-</p>
+</div>
 
 ---
 
@@ -140,23 +149,45 @@ An AI-powered resume builder focused on creating modern and ATS-friendly resumes
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nayandeep-09&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayandeep-09&theme=tokyonight"
+width="49%"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayandeep-09&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayandeep-09&theme=tokyonight"
+width="49%"
+/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 📈 GitHub Profile
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nayandeep-09&theme=tokyonight&hide_border=true" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayandeep-09&theme=tokyonight"
+width="95%"
+/>
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=nayandeep-09&theme=tokyonight&hide_border=true"
+width="70%"
+/>
 
 </div>
 
@@ -182,33 +213,8 @@ An AI-powered resume builder focused on creating modern and ATS-friendly resumes
 
 ### 💡 Learn → Build → Debug → Improve → Repeat
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 
 </div>
-What I changed
-
-Before:
-
-🚀 About Me
-
-┌─────────────────────────────┐
-│ const nayan = {             │
-│   education: "MCA",         │
-│   location: "Indore",       │
-│   ...                       │
-│ };                          │
-└─────────────────────────────┘
-
-Now:
-
-🚀 About Me
-
-🎓 I'm currently pursuing MCA...
-
-💻 I'm interested in Software Development...
-
-🌱 Currently learning JavaScript...
-
-🔨 I enjoy building projects...
-
-🎯 My goal is to become...
